@@ -1,6 +1,6 @@
 # Ren’Py Workshop: Make your own dating sim!
 
-This is a Ren'Py Workshop using characters in Genshin by MeiRoseOS you can follow along in the [(vod @ Youtube]https://www.youtube.com/watch?v=veUg4UBfJlQ]), go through the [google doc](https://docs.google.com/document/d/11baA-8U-TCV3qhT9IB70VNn78D70ENg47ZC4dEfQRSA/edit) or here!
+This is a Ren'Py Workshop using characters in Genshin by MeiRoseOS you can follow along in the [vod @ Youtube](https://www.youtube.com/watch?v=veUg4UBfJlQ]), go through the [google doc](https://docs.google.com/document/d/11baA-8U-TCV3qhT9IB70VNn78D70ENg47ZC4dEfQRSA/edit) or here!
 
 Make sure to download the latest version of Ren’Py [here](https://www.renpy.org/latest.html)
 
